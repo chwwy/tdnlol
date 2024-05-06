@@ -3,7 +3,7 @@
 	import Page1 from "./components/page1.svelte";
     import Page2 from "./components/page2.svelte";
     import { switchToNextTab } from "./lib/util.js";
-    import Falling from "./components/Falling.svelte";
+    import Falling from "./components/falling.svelte";
     import { onMount } from 'svelte';
     import { submitComment } from './lib/submit.js';
     
